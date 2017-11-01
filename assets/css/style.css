@@ -1,0 +1,18 @@
+.jumbotron {
+    width: 80%;
+    margin-left: 10%;
+    background: chocolate;
+    color: white;
+    text-align: center;
+}
+
+.panel {
+    width: 80%;
+    margin-left: 10%;    
+}
+
+#heading-css {
+    background: #377BB5;
+    color: white;  
+    font-weight: bold;  
+}
